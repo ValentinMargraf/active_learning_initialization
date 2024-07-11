@@ -31,3 +31,5 @@ Documentation at https://activelearningpipelines.readthedocs.io/en/latest/
 
 
 # Experiments
+To reproduce our results, run `Small.py` inside alpbench/evaluation/experimenter/.
+We aggregated the results into saved_dictionary.pkl inside alpbench/evaluation/analysis/. There you also find the notebook `evaluation_ecai_workshop.ipynb` to generate the figures and tables.
