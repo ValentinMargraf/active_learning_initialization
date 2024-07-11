@@ -1,0 +1,225 @@
+2024-06-24 11:42:38,858  | py-experimenter - WARNING  | No values given for keyfield setting_name
+2024-06-24 11:42:38,859  | py-experimenter - WARNING  | No values given for keyfield openml_id
+2024-06-24 11:42:38,859  | py-experimenter - WARNING  | No values given for keyfield learner_name
+2024-06-24 11:42:38,859  | py-experimenter - WARNING  | No values given for keyfield query_strategy_name
+2024-06-24 11:42:38,859  | py-experimenter - WARNING  | No values given for keyfield test_split_seed
+2024-06-24 11:42:38,859  | py-experimenter - WARNING  | No values given for keyfield train_split_seed
+2024-06-24 11:42:38,859  | py-experimenter - WARNING  | No values given for keyfield seed
+2024-06-24 11:42:38,859  | py-experimenter - INFO     | Found 7 keyfields
+2024-06-24 11:42:38,859  | py-experimenter - WARNING  | No resultfields given
+2024-06-24 11:42:38,860  | py-experimenter - INFO     | Found 2 logtables
+2024-06-24 11:42:38,860  | py-experimenter - INFO     | Found logtable small__accuracy_log
+2024-06-24 11:42:38,860  | py-experimenter - INFO     | Found logtable small__labeling_log
+2024-06-24 11:42:38,860  | py-experimenter - WARNING  | No custom section defined in config
+2024-06-24 11:42:38,860  | py-experimenter - WARNING  | No codecarbon section defined in config
+2024-06-24 11:42:39,002  | py-experimenter - INFO     | Initialized and connected to database
+2024-06-24 11:43:26,505  | py-experimenter - WARNING  | No values given for keyfield setting_name
+2024-06-24 11:43:26,506  | py-experimenter - WARNING  | No values given for keyfield openml_id
+2024-06-24 11:43:26,506  | py-experimenter - WARNING  | No values given for keyfield learner_name
+2024-06-24 11:43:26,506  | py-experimenter - WARNING  | No values given for keyfield query_strategy_name
+2024-06-24 11:43:26,506  | py-experimenter - WARNING  | No values given for keyfield test_split_seed
+2024-06-24 11:43:26,506  | py-experimenter - WARNING  | No values given for keyfield train_split_seed
+2024-06-24 11:43:26,506  | py-experimenter - WARNING  | No values given for keyfield seed
+2024-06-24 11:43:26,506  | py-experimenter - INFO     | Found 7 keyfields
+2024-06-24 11:43:26,507  | py-experimenter - WARNING  | No resultfields given
+2024-06-24 11:43:26,507  | py-experimenter - INFO     | Found 2 logtables
+2024-06-24 11:43:26,507  | py-experimenter - INFO     | Found logtable small__accuracy_log
+2024-06-24 11:43:26,507  | py-experimenter - INFO     | Found logtable small__labeling_log
+2024-06-24 11:43:26,507  | py-experimenter - WARNING  | No custom section defined in config
+2024-06-24 11:43:26,507  | py-experimenter - WARNING  | No codecarbon section defined in config
+2024-06-24 11:43:26,629  | py-experimenter - INFO     | Initialized and connected to database
+2024-06-24 11:44:18,423  | py-experimenter - WARNING  | No values given for keyfield setting_name
+2024-06-24 11:44:18,424  | py-experimenter - WARNING  | No values given for keyfield openml_id
+2024-06-24 11:44:18,424  | py-experimenter - WARNING  | No values given for keyfield learner_name
+2024-06-24 11:44:18,424  | py-experimenter - WARNING  | No values given for keyfield query_strategy_name
+2024-06-24 11:44:18,424  | py-experimenter - WARNING  | No values given for keyfield test_split_seed
+2024-06-24 11:44:18,424  | py-experimenter - WARNING  | No values given for keyfield train_split_seed
+2024-06-24 11:44:18,424  | py-experimenter - WARNING  | No values given for keyfield seed
+2024-06-24 11:44:18,424  | py-experimenter - INFO     | Found 7 keyfields
+2024-06-24 11:44:18,424  | py-experimenter - WARNING  | No resultfields given
+2024-06-24 11:44:18,424  | py-experimenter - INFO     | Found 2 logtables
+2024-06-24 11:44:18,424  | py-experimenter - INFO     | Found logtable small__accuracy_log
+2024-06-24 11:44:18,424  | py-experimenter - INFO     | Found logtable small__labeling_log
+2024-06-24 11:44:18,424  | py-experimenter - WARNING  | No custom section defined in config
+2024-06-24 11:44:18,425  | py-experimenter - WARNING  | No codecarbon section defined in config
+2024-06-24 11:44:18,584  | py-experimenter - INFO     | Initialized and connected to database
+2024-06-24 11:44:38,500  | py-experimenter - WARNING  | No values given for keyfield setting_name
+2024-06-24 11:44:38,501  | py-experimenter - WARNING  | No values given for keyfield openml_id
+2024-06-24 11:44:38,501  | py-experimenter - WARNING  | No values given for keyfield learner_name
+2024-06-24 11:44:38,501  | py-experimenter - WARNING  | No values given for keyfield query_strategy_name
+2024-06-24 11:44:38,501  | py-experimenter - WARNING  | No values given for keyfield test_split_seed
+2024-06-24 11:44:38,501  | py-experimenter - WARNING  | No values given for keyfield train_split_seed
+2024-06-24 11:44:38,501  | py-experimenter - WARNING  | No values given for keyfield seed
+2024-06-24 11:44:38,501  | py-experimenter - INFO     | Found 7 keyfields
+2024-06-24 11:44:38,501  | py-experimenter - WARNING  | No resultfields given
+2024-06-24 11:44:38,501  | py-experimenter - INFO     | Found 2 logtables
+2024-06-24 11:44:38,501  | py-experimenter - INFO     | Found logtable small__accuracy_log
+2024-06-24 11:44:38,502  | py-experimenter - INFO     | Found logtable small__labeling_log
+2024-06-24 11:44:38,502  | py-experimenter - WARNING  | No custom section defined in config
+2024-06-24 11:44:38,502  | py-experimenter - WARNING  | No codecarbon section defined in config
+2024-06-24 11:44:38,621  | py-experimenter - INFO     | Initialized and connected to database
+2024-06-24 11:45:09,002  | py-experimenter - WARNING  | No values given for keyfield setting_name
+2024-06-24 11:45:09,003  | py-experimenter - WARNING  | No values given for keyfield openml_id
+2024-06-24 11:45:09,003  | py-experimenter - WARNING  | No values given for keyfield learner_name
+2024-06-24 11:45:09,003  | py-experimenter - WARNING  | No values given for keyfield query_strategy_name
+2024-06-24 11:45:09,003  | py-experimenter - WARNING  | No values given for keyfield test_split_seed
+2024-06-24 11:45:09,003  | py-experimenter - WARNING  | No values given for keyfield train_split_seed
+2024-06-24 11:45:09,003  | py-experimenter - WARNING  | No values given for keyfield seed
+2024-06-24 11:45:09,003  | py-experimenter - INFO     | Found 7 keyfields
+2024-06-24 11:45:09,003  | py-experimenter - WARNING  | No resultfields given
+2024-06-24 11:45:09,004  | py-experimenter - INFO     | Found 2 logtables
+2024-06-24 11:45:09,004  | py-experimenter - INFO     | Found logtable small__accuracy_log
+2024-06-24 11:45:09,004  | py-experimenter - INFO     | Found logtable small__labeling_log
+2024-06-24 11:45:09,004  | py-experimenter - WARNING  | No custom section defined in config
+2024-06-24 11:45:09,004  | py-experimenter - WARNING  | No codecarbon section defined in config
+2024-06-24 11:45:09,124  | py-experimenter - INFO     | Initialized and connected to database
+2024-06-24 11:45:50,432  | py-experimenter - WARNING  | No values given for keyfield setting_name
+2024-06-24 11:45:50,432  | py-experimenter - WARNING  | No values given for keyfield openml_id
+2024-06-24 11:45:50,433  | py-experimenter - WARNING  | No values given for keyfield learner_name
+2024-06-24 11:45:50,433  | py-experimenter - WARNING  | No values given for keyfield query_strategy_name
+2024-06-24 11:45:50,433  | py-experimenter - WARNING  | No values given for keyfield test_split_seed
+2024-06-24 11:45:50,433  | py-experimenter - WARNING  | No values given for keyfield train_split_seed
+2024-06-24 11:45:50,433  | py-experimenter - WARNING  | No values given for keyfield seed
+2024-06-24 11:45:50,433  | py-experimenter - INFO     | Found 7 keyfields
+2024-06-24 11:45:50,433  | py-experimenter - WARNING  | No resultfields given
+2024-06-24 11:45:50,433  | py-experimenter - INFO     | Found 2 logtables
+2024-06-24 11:45:50,433  | py-experimenter - INFO     | Found logtable small__accuracy_log
+2024-06-24 11:45:50,434  | py-experimenter - INFO     | Found logtable small__labeling_log
+2024-06-24 11:45:50,434  | py-experimenter - WARNING  | No custom section defined in config
+2024-06-24 11:45:50,434  | py-experimenter - WARNING  | No codecarbon section defined in config
+2024-06-24 11:45:50,573  | py-experimenter - INFO     | Initialized and connected to database
+2024-06-24 11:47:56,809  | py-experimenter - WARNING  | No values given for keyfield setting_name
+2024-06-24 11:47:56,809  | py-experimenter - WARNING  | No values given for keyfield openml_id
+2024-06-24 11:47:56,809  | py-experimenter - WARNING  | No values given for keyfield learner_name
+2024-06-24 11:47:56,809  | py-experimenter - WARNING  | No values given for keyfield query_strategy_name
+2024-06-24 11:47:56,809  | py-experimenter - WARNING  | No values given for keyfield test_split_seed
+2024-06-24 11:47:56,809  | py-experimenter - WARNING  | No values given for keyfield train_split_seed
+2024-06-24 11:47:56,810  | py-experimenter - WARNING  | No values given for keyfield seed
+2024-06-24 11:47:56,810  | py-experimenter - INFO     | Found 7 keyfields
+2024-06-24 11:47:56,810  | py-experimenter - WARNING  | No resultfields given
+2024-06-24 11:47:56,810  | py-experimenter - INFO     | Found 2 logtables
+2024-06-24 11:47:56,810  | py-experimenter - INFO     | Found logtable small__accuracy_log
+2024-06-24 11:47:56,810  | py-experimenter - INFO     | Found logtable small__labeling_log
+2024-06-24 11:47:56,810  | py-experimenter - WARNING  | No custom section defined in config
+2024-06-24 11:47:56,810  | py-experimenter - WARNING  | No codecarbon section defined in config
+2024-06-24 11:47:57,172  | py-experimenter - INFO     | Initialized and connected to database
+2024-06-24 11:48:58,579  | py-experimenter - WARNING  | No values given for keyfield setting_name
+2024-06-24 11:48:58,580  | py-experimenter - WARNING  | No values given for keyfield openml_id
+2024-06-24 11:48:58,580  | py-experimenter - WARNING  | No values given for keyfield learner_name
+2024-06-24 11:48:58,580  | py-experimenter - WARNING  | No values given for keyfield query_strategy_name
+2024-06-24 11:48:58,580  | py-experimenter - WARNING  | No values given for keyfield test_split_seed
+2024-06-24 11:48:58,580  | py-experimenter - WARNING  | No values given for keyfield train_split_seed
+2024-06-24 11:48:58,580  | py-experimenter - WARNING  | No values given for keyfield seed
+2024-06-24 11:48:58,580  | py-experimenter - INFO     | Found 7 keyfields
+2024-06-24 11:48:58,580  | py-experimenter - WARNING  | No resultfields given
+2024-06-24 11:48:58,580  | py-experimenter - INFO     | Found 2 logtables
+2024-06-24 11:48:58,581  | py-experimenter - INFO     | Found logtable small__accuracy_log
+2024-06-24 11:48:58,581  | py-experimenter - INFO     | Found logtable small__labeling_log
+2024-06-24 11:48:58,581  | py-experimenter - WARNING  | No custom section defined in config
+2024-06-24 11:48:58,581  | py-experimenter - WARNING  | No codecarbon section defined in config
+2024-06-24 11:48:58,721  | py-experimenter - INFO     | Initialized and connected to database
+2024-06-24 11:49:34,552  | py-experimenter - WARNING  | No values given for keyfield setting_name
+2024-06-24 11:49:34,553  | py-experimenter - WARNING  | No values given for keyfield openml_id
+2024-06-24 11:49:34,553  | py-experimenter - WARNING  | No values given for keyfield learner_name
+2024-06-24 11:49:34,553  | py-experimenter - WARNING  | No values given for keyfield query_strategy_name
+2024-06-24 11:49:34,553  | py-experimenter - WARNING  | No values given for keyfield test_split_seed
+2024-06-24 11:49:34,553  | py-experimenter - WARNING  | No values given for keyfield train_split_seed
+2024-06-24 11:49:34,553  | py-experimenter - WARNING  | No values given for keyfield seed
+2024-06-24 11:49:34,553  | py-experimenter - INFO     | Found 7 keyfields
+2024-06-24 11:49:34,554  | py-experimenter - WARNING  | No resultfields given
+2024-06-24 11:49:34,554  | py-experimenter - INFO     | Found 2 logtables
+2024-06-24 11:49:34,554  | py-experimenter - INFO     | Found logtable small__accuracy_log
+2024-06-24 11:49:34,554  | py-experimenter - INFO     | Found logtable small__labeling_log
+2024-06-24 11:49:34,554  | py-experimenter - WARNING  | No custom section defined in config
+2024-06-24 11:49:34,554  | py-experimenter - WARNING  | No codecarbon section defined in config
+2024-06-24 11:49:34,678  | py-experimenter - INFO     | Initialized and connected to database
+2024-06-24 11:50:13,406  | py-experimenter - WARNING  | No values given for keyfield setting_name
+2024-06-24 11:50:13,406  | py-experimenter - WARNING  | No values given for keyfield openml_id
+2024-06-24 11:50:13,406  | py-experimenter - WARNING  | No values given for keyfield learner_name
+2024-06-24 11:50:13,406  | py-experimenter - WARNING  | No values given for keyfield query_strategy_name
+2024-06-24 11:50:13,406  | py-experimenter - WARNING  | No values given for keyfield test_split_seed
+2024-06-24 11:50:13,407  | py-experimenter - WARNING  | No values given for keyfield train_split_seed
+2024-06-24 11:50:13,407  | py-experimenter - WARNING  | No values given for keyfield seed
+2024-06-24 11:50:13,407  | py-experimenter - INFO     | Found 7 keyfields
+2024-06-24 11:50:13,407  | py-experimenter - WARNING  | No resultfields given
+2024-06-24 11:50:13,407  | py-experimenter - INFO     | Found 2 logtables
+2024-06-24 11:50:13,407  | py-experimenter - INFO     | Found logtable small__accuracy_log
+2024-06-24 11:50:13,407  | py-experimenter - INFO     | Found logtable small__labeling_log
+2024-06-24 11:50:13,407  | py-experimenter - WARNING  | No custom section defined in config
+2024-06-24 11:50:13,407  | py-experimenter - WARNING  | No codecarbon section defined in config
+2024-06-24 11:50:13,548  | py-experimenter - INFO     | Initialized and connected to database
+2024-06-24 13:22:09,275  | py-experimenter - WARNING  | No values given for keyfield setting_name
+2024-06-24 13:22:09,275  | py-experimenter - WARNING  | No values given for keyfield openml_id
+2024-06-24 13:22:09,276  | py-experimenter - WARNING  | No values given for keyfield learner_name
+2024-06-24 13:22:09,276  | py-experimenter - WARNING  | No values given for keyfield query_strategy_name
+2024-06-24 13:22:09,276  | py-experimenter - WARNING  | No values given for keyfield test_split_seed
+2024-06-24 13:22:09,276  | py-experimenter - WARNING  | No values given for keyfield train_split_seed
+2024-06-24 13:22:09,276  | py-experimenter - WARNING  | No values given for keyfield seed
+2024-06-24 13:22:09,276  | py-experimenter - INFO     | Found 7 keyfields
+2024-06-24 13:22:09,276  | py-experimenter - WARNING  | No resultfields given
+2024-06-24 13:22:09,276  | py-experimenter - INFO     | Found 2 logtables
+2024-06-24 13:22:09,276  | py-experimenter - INFO     | Found logtable small__accuracy_log
+2024-06-24 13:22:09,276  | py-experimenter - INFO     | Found logtable small__labeling_log
+2024-06-24 13:22:09,277  | py-experimenter - WARNING  | No custom section defined in config
+2024-06-24 13:22:09,277  | py-experimenter - WARNING  | No codecarbon section defined in config
+2024-06-24 13:22:09,396  | py-experimenter - INFO     | Initialized and connected to database
+2024-06-24 13:23:14,691  | py-experimenter - WARNING  | No values given for keyfield setting_name
+2024-06-24 13:23:14,692  | py-experimenter - WARNING  | No values given for keyfield openml_id
+2024-06-24 13:23:14,692  | py-experimenter - WARNING  | No values given for keyfield learner_name
+2024-06-24 13:23:14,692  | py-experimenter - WARNING  | No values given for keyfield query_strategy_name
+2024-06-24 13:23:14,692  | py-experimenter - WARNING  | No values given for keyfield test_split_seed
+2024-06-24 13:23:14,692  | py-experimenter - WARNING  | No values given for keyfield train_split_seed
+2024-06-24 13:23:14,692  | py-experimenter - WARNING  | No values given for keyfield seed
+2024-06-24 13:23:14,693  | py-experimenter - INFO     | Found 7 keyfields
+2024-06-24 13:23:14,693  | py-experimenter - WARNING  | No resultfields given
+2024-06-24 13:23:14,693  | py-experimenter - INFO     | Found 2 logtables
+2024-06-24 13:23:14,693  | py-experimenter - INFO     | Found logtable small__accuracy_log
+2024-06-24 13:23:14,693  | py-experimenter - INFO     | Found logtable small__labeling_log
+2024-06-24 13:23:14,693  | py-experimenter - WARNING  | No custom section defined in config
+2024-06-24 13:23:14,693  | py-experimenter - WARNING  | No codecarbon section defined in config
+2024-06-24 13:23:14,817  | py-experimenter - INFO     | Initialized and connected to database
+2024-06-24 13:23:54,305  | py-experimenter - WARNING  | No values given for keyfield setting_name
+2024-06-24 13:23:54,305  | py-experimenter - WARNING  | No values given for keyfield openml_id
+2024-06-24 13:23:54,305  | py-experimenter - WARNING  | No values given for keyfield learner_name
+2024-06-24 13:23:54,305  | py-experimenter - WARNING  | No values given for keyfield query_strategy_name
+2024-06-24 13:23:54,305  | py-experimenter - WARNING  | No values given for keyfield test_split_seed
+2024-06-24 13:23:54,305  | py-experimenter - WARNING  | No values given for keyfield train_split_seed
+2024-06-24 13:23:54,305  | py-experimenter - WARNING  | No values given for keyfield seed
+2024-06-24 13:23:54,306  | py-experimenter - INFO     | Found 7 keyfields
+2024-06-24 13:23:54,306  | py-experimenter - WARNING  | No resultfields given
+2024-06-24 13:23:54,306  | py-experimenter - INFO     | Found 2 logtables
+2024-06-24 13:23:54,306  | py-experimenter - INFO     | Found logtable small__accuracy_log
+2024-06-24 13:23:54,306  | py-experimenter - INFO     | Found logtable small__labeling_log
+2024-06-24 13:23:54,306  | py-experimenter - WARNING  | No custom section defined in config
+2024-06-24 13:23:54,306  | py-experimenter - WARNING  | No codecarbon section defined in config
+2024-06-24 13:23:54,426  | py-experimenter - INFO     | Initialized and connected to database
+2024-06-24 13:24:51,802  | py-experimenter - WARNING  | No values given for keyfield setting_name
+2024-06-24 13:24:51,803  | py-experimenter - WARNING  | No values given for keyfield openml_id
+2024-06-24 13:24:51,803  | py-experimenter - WARNING  | No values given for keyfield learner_name
+2024-06-24 13:24:51,803  | py-experimenter - WARNING  | No values given for keyfield query_strategy_name
+2024-06-24 13:24:51,803  | py-experimenter - WARNING  | No values given for keyfield test_split_seed
+2024-06-24 13:24:51,803  | py-experimenter - WARNING  | No values given for keyfield train_split_seed
+2024-06-24 13:24:51,803  | py-experimenter - WARNING  | No values given for keyfield seed
+2024-06-24 13:24:51,803  | py-experimenter - INFO     | Found 7 keyfields
+2024-06-24 13:24:51,803  | py-experimenter - WARNING  | No resultfields given
+2024-06-24 13:24:51,804  | py-experimenter - INFO     | Found 2 logtables
+2024-06-24 13:24:51,804  | py-experimenter - INFO     | Found logtable small__accuracy_log
+2024-06-24 13:24:51,804  | py-experimenter - INFO     | Found logtable small__labeling_log
+2024-06-24 13:24:51,804  | py-experimenter - WARNING  | No custom section defined in config
+2024-06-24 13:24:51,804  | py-experimenter - WARNING  | No codecarbon section defined in config
+2024-06-24 13:24:51,925  | py-experimenter - INFO     | Initialized and connected to database
+2024-06-25 13:15:43,427  | py-experimenter - WARNING  | No values given for keyfield setting_name
+2024-06-25 13:15:43,427  | py-experimenter - WARNING  | No values given for keyfield openml_id
+2024-06-25 13:15:43,427  | py-experimenter - WARNING  | No values given for keyfield learner_name
+2024-06-25 13:15:43,427  | py-experimenter - WARNING  | No values given for keyfield query_strategy_name
+2024-06-25 13:15:43,428  | py-experimenter - WARNING  | No values given for keyfield test_split_seed
+2024-06-25 13:15:43,428  | py-experimenter - WARNING  | No values given for keyfield train_split_seed
+2024-06-25 13:15:43,428  | py-experimenter - WARNING  | No values given for keyfield seed
+2024-06-25 13:15:43,428  | py-experimenter - INFO     | Found 7 keyfields
+2024-06-25 13:15:43,428  | py-experimenter - WARNING  | No resultfields given
+2024-06-25 13:15:43,428  | py-experimenter - INFO     | Found 2 logtables
+2024-06-25 13:15:43,428  | py-experimenter - INFO     | Found logtable small__accuracy_log
+2024-06-25 13:15:43,428  | py-experimenter - INFO     | Found logtable small__labeling_log
+2024-06-25 13:15:43,428  | py-experimenter - WARNING  | No custom section defined in config
+2024-06-25 13:15:43,428  | py-experimenter - WARNING  | No codecarbon section defined in config
+2024-06-25 13:15:43,830  | py-experimenter - INFO     | Initialized and connected to database
